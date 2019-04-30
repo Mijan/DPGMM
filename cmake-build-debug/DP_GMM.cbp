@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DP_GMM"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\Modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="estimate_density">
+				<Option output="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/estimate_density" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jan/crypt/CLionProjects/DP-GMMv2/src"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 estimate_density"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="estimate_density/fast">
+				<Option output="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/estimate_density" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jan/crypt/CLionProjects/DP-GMMv2/src"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 estimate_density/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DPGMM">
+				<Option output="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/libDPGMM.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jan/crypt/CLionProjects/DP-GMMv2/src"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 DPGMM"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DPGMM/fast">
+				<Option output="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/libDPGMM.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jan/crypt/CLionProjects/DP-GMMv2/src"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 DPGMM/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/AdaptiveRejectionSampler.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/AdaptiveRejectionSampler.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/DPGMMEstimator.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/DPGMMEstimator.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/DPGMMLogger.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/DPGMMLogger.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/DataReader.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/DataReader.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/EstimationMixtureComponent.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/EstimationMixtureComponent.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/EstimationOptions.cpp">
+			<Option target="estimate_density"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/EstimationOptions.h">
+			<Option target="estimate_density"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/HyperParameters.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/HyperParameters.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/IOUtils.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/IOUtils.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/IndicatorParameters.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/IndicatorParameters.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/MultivariateNormalDistribution.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/MultivariateNormalDistribution.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/PostLogAlpha.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/PostLogAlpha.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/PostLogBeta.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/PostLogBeta.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/WishartDistribution.cpp">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/WishartDistribution.h">
+			<Option target="estimate_density"/>
+			<Option target="DPGMM"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/src/estimate_density.cpp">
+			<Option target="estimate_density"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/jan/crypt/CLionProjects/DP-GMMv2/cmake/Modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,40 @@
+/home/jan/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/jan/crypt/CLionProjects/DP-GMMv2
+CMake Warning at /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:801 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:31 (find_package)
+
+
+CMake Warning at /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:801 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:31 (find_package)
+
+
+CMake Warning at /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:801 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  /home/jan/clion-2018.1/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:31 (find_package)
+
+
+-- Boost version: 1.69.0
+-- Found the following Boost libraries:
+--   program_options
+--   system
+--   filesystem
+Eigen3 library not found (you can set Eigen3 location through the environment variable EIGEN3_ROOT). Shipped Eigen3 library in /home/jan/crypt/CLionProjects/DP-GMMv2/../eigen3.4 will be used!
+
+ Executable will be build!
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jan/crypt/CLionProjects/DP-GMMv2/cmake-build-release
